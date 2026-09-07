@@ -210,7 +210,7 @@ The following packages are then built (with the extension `.rpm` if you selected
 
 ## C++ API documentation
 
-The JSBSim C++ API documentation is built from the source code with [Doxygen](http://www.stack.nl/~dimitri/doxygen/) and is automatically published on GitHub each time a commit is pushed to the JSBSim GitHub project. It can be viewed here:
+The JSBSim C++ API documentation is built from the source code with [Doxygen](https://www.doxygen.org) and is automatically published on GitHub each time a commit is pushed to the JSBSim GitHub project. It can be viewed here:
 
 <https://jsbsim-team.github.io/jsbsim/>.
 
